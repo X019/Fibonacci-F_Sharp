@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XJMb7oq/CVXjNgfXt7DsUGgL/8r8SZ1Q0Yl+6SCBkpkHtytBhoOjGYeBwwY8LXehisFlqxWkkq/7hGzaBpWmQg==",
+  "success": true,
+  "projectFilePath": "D:\\D-DRIVE\\Crest_Work\\F# fibonacci\\fibbonaciSequenceThing\\fibbonaciSequenceThing.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Executor\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
